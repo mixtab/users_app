@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">usersApp</string>
+
+    <string name="user_info_repos">Repos : %d </string>
+    <string name="user_info_gists">Gists : %d </string>
+    <string name="user_info_followers">Followers : %d </string>
+
+    <string name="user_info_url_error"> Something wrong </string>
 </resources>
